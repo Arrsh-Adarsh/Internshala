@@ -1,2 +1,0 @@
-# Internshala
-Java Project
